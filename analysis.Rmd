@@ -1,0 +1,11 @@
+---
+title: "Practical Machine Learning: Weight Lifting Exercise Prediction"
+author: "Dilnaz Urazova"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk_set(echo = TRUE, warning = FALSE, message = FALSE)
